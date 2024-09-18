@@ -32,7 +32,9 @@ Edit the script to add your token / concerned domain/dns record having proxied s
 
 e.g. :
 
-`config["key1"]="TOKEN1 domain1.com www.domain1.com"
+```
+config["key1"]="TOKEN1 domain1.com www.domain1.com"
 config["key2"]="TOKEN1 domain1.com domain1.com"
 config["key3"]="TOKEN2 domain2.com www.domain2.com"
-config["key4"]="TOKEN2 domain2.com images.domain2.com"`
+config["key4"]="TOKEN2 domain2.com images.domain2.com"
+```
